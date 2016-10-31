@@ -1,0 +1,24 @@
+{
+  "name": "host-bot",
+  "version": "0.0.1",
+  "description": "Web application ultra hype qui hébergera des bots Discord et autre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingserv/host-bot.git"
+  },
+  "author": "CodingServ",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/codingserv/host-bot/issues"
+  },
+  "homepage": "https://github.com/codingserv/host-bot#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
