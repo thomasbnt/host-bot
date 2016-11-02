@@ -2,9 +2,9 @@
   "name": "host-bot",
   "version": "0.0.1",
   "description": "Web application ultra hype qui hébergera des bots Discord et autre",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
